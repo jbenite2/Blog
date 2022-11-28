@@ -28,12 +28,12 @@ enableEmoji=true
   [[menu.main]]
     identifier = "Blog"
     name = "Blog"
-    url = "/about/"
+    url = "/blog/"
 
   [[menu.main]]
-    identifier = "publications"
-    name = "Publications"
-    url = "/publications/"
+    identifier = "about"
+    name = "About"
+    url = "/about/"
 
   [[menu.main]]
     identifier = "projects"
