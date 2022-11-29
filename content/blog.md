@@ -1,7 +1,7 @@
 ---
 title: 'Blog'
 date: 2022-11-15T00:40:31-05:00
-draft: true
+draft: false
 menu: 'mainmenu'
 ---
 
