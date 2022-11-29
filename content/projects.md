@@ -5,6 +5,33 @@ draft: true
 menu: 'mainmenu'
 ---
 
-- # [Interview Preparation Videos (Spanish)]({{< ref "/videos.md" >}} "Interview Preperation Videos"):dart:
-- # [Islander PR: Travel Guide](https://islanderpr.com):surfer:
-- # [Spanky's: O'Neill Family Hall's Kitchen](http://ospankys.live) :pizza:
+<style>
+    .proj_column{
+        display:flex;
+        flex-direction: column;
+        text-align: center;
+        margin-bottom: 10px;
+        padding: 1rem;
+        space-between: 10px;
+        margin-inline: 5% 10%;
+
+    }
+
+</style>
+
+<div class= "proj_column">
+<a href="https://islanderpr.com">
+    <img src="/IslanderPR.JPG" alt="Islander Project"  width="500" height="auto" style="border-radius:25px;">
+</a>
+
+<a href="https://www.jbenitez.me/videos/">
+    <img src="/LeetGrind.jpg" alt="Interview Prep"  width="500" height="auto" style="border-radius:25px;">
+</a>
+
+<a href="http://ospankys.live">
+    <img src="/SpankysProject.jpg" alt="Spankys Kitchen"  width="500" height="auto" style="border-radius:25px;">
+</a>
+<a href="http://jbenitez.com">
+    <img src="/personalSite.jpg" alt="Personal Site"  width="500" height="auto" style="border-radius:25px;">
+</a>
+</div>

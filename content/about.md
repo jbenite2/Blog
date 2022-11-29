@@ -42,7 +42,7 @@ menu: 'mainmenu'
 
 I'm a hard working, goal-driven, technology enthusiast native from [San Juan, PR](https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico).
 
-I'm currently a junior Computer Science major at the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame). Additionally, my passion for technology, innovation, and business has led me to pick up a minor in Engineering Corporate Practice.
+I'm currently a junior Computer Science major at the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame). My passion for technology, innovation, and business has led me to pick up a minor in Engineering Corporate Practice.
 
 In the fall of my sophomore year I learned how to program and fell in love with the creative power coding offers. I’m constantly learning and improving what I know. This thirst for knowledge ranges from technology and business to personal growth:
 
