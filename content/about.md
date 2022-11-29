@@ -24,7 +24,7 @@ menu: 'mainmenu'
 
 </style>
 
-# My name is Jose! :wave:
+# Hello, My name is Jose! :wave:
 
 <div class= "about-content" >
 <p>
