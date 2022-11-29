@@ -40,11 +40,14 @@ menu: 'mainmenu'
 <div class= "about-content" >
 <bio style="margin-block-end: 0.2em;">
 
+<h3>Background</h3>
 I'm a hard working, goal-driven, technology enthusiast native from [San Juan, PR](https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico).
 
-I'm currently a junior Computer Science major at the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame). My passion for technology, innovation, and business has led me to pick up a minor in Engineering Corporate Practice.
+<h3>Education</h3>
+I'm currently a junior <b>computer science</b> major at the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame). My passion for technology, innovation, and business has led me to pick up a minor in <b>engineering corporate practice</b>.
 
-In the fall of my sophomore year I learned how to program and fell in love with the creative power coding offers. I’m constantly learning and improving what I know. This thirst for knowledge ranges from technology and business to personal growth:
+<h3>Interests</h3>
+In the fall of my sophomore year I learned how to program and fell in love with the creative power coding offers. I’m constantly learning and improving what I know. This thirst for knowledge ranges from technology and business to personal growth and financial wellbeing:
 
 <div class="bullets">
 <ul class="blockquote">
@@ -53,16 +56,18 @@ In the fall of my sophomore year I learned how to program and fell in love with 
     <li>Cyber security</li>
     <li>Securities investing</li>
     <li>Real estate</li>
-    <li>Financial literacy</li>
+    <li>Finance</li>
     <li>Self improvement</li>
 </ul>
 </div>
 
-My end goal is to go back to Puerto Rico and propel my community to a better place. I’m a person that traces short term goals and works tirelessly towards achieving them. I’m also extremely <b>curious</b>, <b>organized</b>, and <b>outgoing</b>. Additionally, I’ve been described as someone that often opts for an <b>objective</b> approach to resolving conflict as well as a person who <b>makes others feel included</b>.
+<h3>Soft Skills and Aspirations</h3>
+My end goal is to go back to Puerto Rico and propel my community to a better place. I’m a person that traces short term goals and works tirelessly towards achieving them. I’m also extremely <b>curious</b>, <b>organized</b>, and <b>outgoing</b>. I’ve been described as someone that often opts for an <b>objective</b> approach toward problem solving and conflict resolution. Making sure everyone's opinions are respected and valued is my upmost priority when working in a team.
 
-I serve as a mentor to underclassmen and find "joy in helping other people succeed". All of my project are open source and can be found in the GitHub link below. Feel free to reach out regarding any questions.
+<h3>Contact me</h3>
+I serve as a mentor to underclassmen in the center for social concerns in my university. I find joy in helping other people succeed. I'm one to always be open to help those who need my assitance or service.
 
-In addition, feel free to reach out with any learning or job opportunities. I’ve attached my LinkedeIn and email in the footer.
+All of my project are open source and can be found in the <b>GitHub</b> link below. Feel free to reach out with any questions, learning resources or job opportunities. I’ve attached my <b>LinkedeIn</b> and <b>email</b> in the footer.
 
 </bio>
 
