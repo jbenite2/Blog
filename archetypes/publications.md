@@ -1,18 +1,16 @@
 ---
-title: ""
+title: ''
 date: year-month-day
-type: 
-doi: 
+type:
+doi:
 PMID:
-link: 
-journal: 
-authors: 
-    - First
-    - Second
+link:
+journal:
+authors:
+  - First
+  - Second
 
-draft: false
+draft: true
 ---
 
 This is the first publication
-
-
