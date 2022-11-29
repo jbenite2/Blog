@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jbenite2</title>
+    <link>https://example.com/</link>
+    <description>Recent content on jbenite2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Videos</title>
+      <link>https://example.com/videos/</link>
+      <pubDate>Tue, 15 Nov 2022 00:45:43 -0500</pubDate>
+      
+      <guid>https://example.com/videos/</guid>
+      <description> Rhombic Cipher: November 15, 2022 Longest Repeating Character Replacement: November 9, 2022 Product of Array Except Self: November 9, 2022 Group Anagrams: November 3, 2022 Contains Duplicates: November 3, 2022 3Sum: November 2, 2022 Number of Islands: November 1, 2022 Longest Palindromic Substring: October 31, 2022 </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Tue, 15 Nov 2022 00:40:31 -0500</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description> This will be a summarized version of my qualifications </description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://example.com/blog/</link>
+      <pubDate>Tue, 15 Nov 2022 00:40:31 -0500</pubDate>
+      
+      <guid>https://example.com/blog/</guid>
+      <description>Hello, my name is Jose! 👋 I&amp;rsquo;m a hard working, goal-driven, technology enthusiast native from San Juan, PR. I&amp;rsquo;m currently a junior Computer Science major at the University of Notre Dame. Additionally, my passion for technology, innovation, and business has led me to pick up a minor in Engineering Corporate Practice. My culture, family and experiences have shaped who I am today. 2017 was a very challenging year for all of us down in the Carribbean.</description>
+    </item>
+    
+    <item>
+      <title>Projects:</title>
+      <link>https://example.com/projects/</link>
+      <pubDate>Tue, 15 Nov 2022 00:40:31 -0500</pubDate>
+      
+      <guid>https://example.com/projects/</guid>
+      <description> Interview Preparation Videos (Spanish)🎯 Islander PR: Travel Guide🏄‍♂️ Spanky&amp;rsquo;s: O&amp;rsquo;Neill Family Hall&amp;rsquo;s Kitchen 🍕 </description>
+    </item>
+    
+  </channel>
+</rss>
