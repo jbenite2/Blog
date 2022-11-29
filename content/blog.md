@@ -10,6 +10,8 @@ menu: 'mainmenu'
     .borders{
         border: none;
         border-radius: 18px;
+        height: auto;
+        width: 70%;
     }
     .wording{
         font-family: Arial, Rounded, MT Bold;
@@ -21,7 +23,7 @@ menu: 'mainmenu'
 <!-- # Hello, my name is Jose! :wave: -->
 
 <p align="center">
-    <img class="borders" width="800"  src="/cover_image.JPG">
+    <img class="borders" src="/cover_image.JPG">
 </p>
 
 ##### My culture, family and experiences have shaped who I am today. 2017 was a very challenging year for all of us down in the Carribbean. [Hurricane Maria](https://en.wikipedia.org/wiki/Hurricane_Maria) ripped my island apart, taking the lives of thousands and provoking the larget blackout in US history (second-largest in the world). If I learned anything from this tragedy is that when life throws you down (at 160 km/hour to be precise) you rebuild and come back stronger.
