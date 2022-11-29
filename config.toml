@@ -1,6 +1,6 @@
-baseURL = "https://main.d3k73ti1inxw0c.amplifyapp.com/"
+baseURL = "https://jbenitez.me/"
 languageCode = "en-us"
-title = "jbenite2"
+title = "josebenitez"
 theme = "sourgough-starter"
 relativeURLs = true
 enableEmoji=true
