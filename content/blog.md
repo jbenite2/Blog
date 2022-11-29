@@ -11,7 +11,7 @@ menu: 'mainmenu'
         border: none;
         border-radius: 18px;
         height: auto;
-        width: 70%;
+        width: 90%;
     }
     .wording{
         font-family: Arial, Rounded, MT Bold;
@@ -26,7 +26,7 @@ menu: 'mainmenu'
     <img class="borders" src="/cover_image.JPG">
 </p>
 
-##### My culture, family and experiences have shaped who I am today. 2017 was a very challenging year for all of us down in the Carribbean. [Hurricane Maria](https://en.wikipedia.org/wiki/Hurricane_Maria) ripped my island apart, taking the lives of thousands and provoking the larget blackout in US history (second-largest in the world). If I learned anything from this tragedy is that when life throws you down (at 160 km/hour to be precise) you rebuild and come back stronger.
+#### My culture, family and experiences have shaped who I am today. 2017 was a very challenging year for all of us down in the Carribbean. [Hurricane Maria](https://en.wikipedia.org/wiki/Hurricane_Maria) ripped my island apart, taking the lives of thousands and provoking the larget blackout in US history (second-largest in the world). If I learned anything from this tragedy is that when life throws you down (at 160 km/hour to be precise) you rebuild and come back stronger.
 
 <p align="center">
     <img class="borders" width="800"  src="/maria1.JPG">
@@ -37,7 +37,7 @@ menu: 'mainmenu'
 
 ---
 
-##### In 2019 I became an [Eagle Scout](https://en.wikipedia.org/wiki/Eagle_Scout) after 8 years of hard work and sacrifice. [BSA](https://en.wikipedia.org/wiki/Boy_Scouts_of_America) has been the most influential organization in my life teaching me the importance of serving others without expecting anything in return. The values instilled in me by this organization and the lessons learned on a weekly basis forged me into a leader eager to make a difference in the world.
+#### In 2019 I became an [Eagle Scout](https://en.wikipedia.org/wiki/Eagle_Scout) after 8 years of hard work and sacrifice. [BSA](https://en.wikipedia.org/wiki/Boy_Scouts_of_America) has been the most influential organization in my life teaching me the importance of serving others without expecting anything in return. The values instilled in me by this organization and the lessons learned on a weekly basis forged me into a leader eager to make a difference in the world.
 
 <p align="center">
     <img class="borders" width="800"  src="/scouts2.jpg">
@@ -48,7 +48,7 @@ menu: 'mainmenu'
 
 ---
 
-##### In 2020 I graduated from [Colegio San Jose R.P.](https://www.csjpr.org/) intrigued by the world I would find outside the familiarity and comfort of my Puerto Rican community.
+#### In 2020 I graduated from [Colegio San Jose R.P.](https://www.csjpr.org/) intrigued by the world I would find outside the familiarity and comfort of my Puerto Rican community.
 
 <!-- ![graduation salutatorian trophy](/graduation1.jpg) -->
 
@@ -62,7 +62,7 @@ menu: 'mainmenu'
 
 ---
 
-##### During the first half of the 2022 summer I studied abroad in [Valencia, Spain](https://en.wikipedia.org/wiki/Technical_University_of_Valencia). This experience opened my eyes to a variety of different perspectives and allowed me to dive into the Spanish culture. These 6 weeks were absolutely amazing and full of adventures, delicious paellas, and surreal sights.
+#### During the first half of the 2022 summer I studied abroad in [Valencia, Spain](https://en.wikipedia.org/wiki/Technical_University_of_Valencia). This experience opened my eyes to a variety of different perspectives and allowed me to dive into the Spanish culture. These 6 weeks were absolutely amazing and full of adventures, delicious paellas, and surreal sights.
 
 <p align="center">
     <img class="borders" width="800"  src="/abroad1.JPG">
@@ -73,7 +73,7 @@ menu: 'mainmenu'
 
 ---
 
-##### I flew into Chicago straight from Madrid extremely enthusiastic about commencing my career in the industry as a Technology Consulting Intern at Ernst & Young. During this second half of the summer I experienced life in one of the biggest firms in one of the biggest cities. I gained valuable public speaking experience, as well as networking and planning skills. Our team worked on developing a platform for the American Public Life Insurance Company. This was my first exposure to Agile sprints an iterations. Additionally, I got to experience Chicago and all of its wonders.
+#### I flew into Chicago straight from Madrid extremely enthusiastic about commencing my career in the industry as a Technology Consulting Intern at Ernst & Young. During this second half of the summer I experienced life in one of the biggest firms in one of the biggest cities. I gained valuable public speaking experience, as well as networking and planning skills. Our team worked on developing a platform for the American Public Life Insurance Company. This was my first exposure to Agile sprints an iterations. Additionally, I got to experience Chicago and all of its wonders.
 
 <p align="center">
     <img class="borders" width="800"  src="/chicago.JPG">

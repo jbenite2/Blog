@@ -5,9 +5,8 @@ draft: true
 menu: 'mainmenu'
 ---
 
-<img src="/headshot.JPG" alt="Headshot" style="float: right; height:600px;border-radius:25px;margin-top: 130px;">
+<img src="/headshot.JPG" alt="Headshot" style="float: right; height:auto; width: 38%;border-radius:25px;margin-top: 10px;">
 
-<br />
 <br />
 
 <style>
@@ -37,8 +36,6 @@ menu: 'mainmenu'
    
 
 </style>
-
-# Hello, My name is Jose! :wave:
 
 <div class= "about-content" >
 <bio style="margin-block-end: 0.2em;">
