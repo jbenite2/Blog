@@ -31,7 +31,7 @@ menu: 'mainmenu'
 <a href="http://ospankys.live">
     <img src="/SpankysProject.jpg" alt="Spankys Kitchen"  width="500" height="auto" style="border-radius:25px;">
 </a>
-<a href="http://jbenitez.com">
+<a href="http://jbenitez.me">
     <img src="/personalSite.jpg" alt="Personal Site"  width="500" height="auto" style="border-radius:25px;">
 </a>
 </div>
