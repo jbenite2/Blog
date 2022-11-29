@@ -18,15 +18,11 @@ menu: 'mainmenu'
 
 ---
 
-# Hello, my name is Jose! :wave:
+<!-- # Hello, my name is Jose! :wave: -->
 
 <p align="center">
     <img class="borders" width="800"  src="/cover_image.JPG">
 </p>
-
-##### I'm a hard working, goal-driven, technology enthusiast native from [San Juan, PR](https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico). I'm currently a junior Computer Science major at the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame). Additionally, my passion for technology, innovation, and business has led me to pick up a minor in Engineering Corporate Practice.
-
----
 
 ##### My culture, family and experiences have shaped who I am today. 2017 was a very challenging year for all of us down in the Carribbean. [Hurricane Maria](https://en.wikipedia.org/wiki/Hurricane_Maria) ripped my island apart, taking the lives of thousands and provoking the larget blackout in US history (second-largest in the world). If I learned anything from this tragedy is that when life throws you down (at 160 km/hour to be precise) you rebuild and come back stronger.
 
