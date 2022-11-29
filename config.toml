@@ -86,10 +86,6 @@ enableEmoji=true
     name = "joselbenitez.pr@gmail.com"
     url = "mailto:joselbenitez.pr@gmail.com"
 
-  [[menu.link]]
-    identifier = "resume"
-    name = "resume"
-    url = ""
 
 [taxonomies]
   authors = "authors"
