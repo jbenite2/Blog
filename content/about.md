@@ -63,7 +63,7 @@ In the fall of my sophomore year I learned how to program and fell in love with 
 
 My end goal is to go back to Puerto Rico and propel my community to a better place. I’m a person that traces short term goals and works tirelessly towards achieving them. I’m also extremely <b>curious</b>, <b>organized</b>, and <b>outgoing</b>. Additionally, I’ve been described as someone that often opts for an <b>objective</b> approach to resolving conflict as well as a person who <b>makes others feel included</b>.
 
-I serve as a mentor to undergrads and find "joy in helping other people succeed". All of my project are open source and can be found in the GitHub link below. Feel free to reach out regarding any questions.
+I serve as a mentor to underclassmen and find "joy in helping other people succeed". All of my project are open source and can be found in the GitHub link below. Feel free to reach out regarding any questions.
 
 In addition, feel free to reach out with any learning or job opportunities. I’ve attached my LinkedeIn and email in the footer.
 
