@@ -5,7 +5,7 @@ draft: true
 menu: 'mainmenu'
 ---
 
-<img src="/headshot.JPG" alt="Headshot" style="float: right; height:auto; width: 30%;border-radius:25px;margin-top: 10px;">
+<img src="/headshot.JPG" alt="Headshot" style="float: right; height:auto; width: 20%;border-radius:25px;margin-top: 10px;">
 
 <br />
 
