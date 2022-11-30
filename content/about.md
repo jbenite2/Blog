@@ -5,8 +5,6 @@ draft: true
 menu: 'mainmenu'
 ---
 
-<a href="/myFile.js" download>Click to Download</a>
-
 <img src="/headshot.JPG" alt="Headshot" style="float: right; height:auto; width: 30%;border-radius:25px;margin-top: 10px;">
 
 <br />
