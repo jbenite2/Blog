@@ -3,8 +3,6 @@ title: 'Blog'
 layout: 'posts'
 ---
 
-HTML</a>
-
 <style>
   /* Style the timeline */
   ol.timeline {
@@ -51,7 +49,7 @@ HTML</a>
   <li>C++</li>
   <li>Linux</li>
   <li>Python</li>
-  <li><a href="/html/">HTML</a></li>
+  <li><a href="/posts/html/">HTML</a></li>
   <li>CSS</li>
   <li>MySQL</li>
   <li>JavaScript</li>
