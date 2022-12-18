@@ -44,11 +44,6 @@ enableEmoji=true
    identifier = "Posts"
    name = "Posts"
    url = "/posts/"
-   
-   [[menu.main]]
-   identifier = "HTML"
-   name = "HTML"
-   url = "/html/"
 
 #----- NavBottom Links ------
   [[menu.bot]]
