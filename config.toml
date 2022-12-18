@@ -31,14 +31,24 @@ enableEmoji=true
     url = "/blog/"
 
   [[menu.main]]
-    identifier = "about"
+    identifier = "About"
     name = "About"
     url = "/about/"
 
   [[menu.main]]
-    identifier = "projects"
+    identifier = "Projects"
     name = "Projects"
     url = "/projects/"
+
+  [[menu.main]]
+   identifier = "Posts"
+   name = "Posts"
+   url = "/posts/"
+   
+   [[menu.main]]
+   identifier = "HTML"
+   name = "HTML"
+   url = "/html/"
 
 #----- NavBottom Links ------
   [[menu.bot]]
@@ -74,11 +84,6 @@ enableEmoji=true
     url = ""
     pre = "fab fa-medium-m"
 
-  [[menu.about]]
-    identifier = "googlescholar"
-    name = "Google Scholar"
-    url = ""
-    pre = "fas fa-graduation-cap"
 
 #----------- Text Links -------
   [[menu.link]]
