@@ -151,10 +151,10 @@ menu: 'mainmenu'
 
 ---
 ### Vector Graphics
-What is a vector graphic? It's basically an image that doesn't loose quality when zooming in. It's comprised of geometric shapes. 
+What is a vector graphic? It's basically an image that doesn't loose quality when zooming in. It's comprised of adjustable shapes. 
 
-**Figma** and **XD** are good for vector graphics. 
+**Figma** and **XD** are good resources for vector graphics. 
 
-Append either by copy pasting the contents into the code or by referencing the imag using svg as the type. 
+Append either by copy pasting the contents into the code or by referencing the image using svg as the type. 
 
 "
