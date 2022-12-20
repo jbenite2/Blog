@@ -85,3 +85,33 @@ menu: 'mainmenu'
   </body>
 </html>
 ```
+
+---
+### Audio
+- **audio**: image tag
+  - **controls**: shows pause play volume options
+- **source**: source tag
+  - **src**: attribute where you specify the location of the audio 
+  - **type**:  specify the audio type
+
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Homepage</title>
+  </head>
+  <body>
+    <h1>Homepage</h1>
+    <p>
+      This is an audio file:
+      <audio controls>
+        <source src="audio/song.mp3" type="audio/mpeg"> //Browser should pick this one
+        <source src="audio/song.ogg" type="audio/ogg"> //If it doesn't recognize mpeg it'll pick this one
+        <a href="audio/song.mp3"></a> //Alternative for outdated browsers 
+      </audio>  
+    </p>
+  </body>
+</html>
+```
