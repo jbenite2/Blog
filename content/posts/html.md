@@ -147,3 +147,14 @@ menu: 'mainmenu'
   </body>
 </html>
 ```
+
+
+---
+### Vector Graphics
+What is a vector graphic? It's basically an image that doesn't loose quality when zooming in. It's comprised of geometric shapes. 
+
+**Figma** and **XD** are good for vector graphics. 
+
+Append either by copy pasting the contents into the code or by referencing the imag using svg as the type. 
+
+"
