@@ -61,3 +61,27 @@ menu: 'mainmenu'
   </body>
 </html>
 ```
+
+---
+### Images
+- **img**: image tag
+  - **src**: attribute where you specify the location of the image 
+  - **alt**:  attribute that serves as a basic description of the image (alternative text)
+
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Homepage</title>
+  </head>
+  <body>
+    <h1>Homepage</h1>
+    <p>
+      Welcome to the homepage. Learn more about my
+      <img src= "image.png" alt="description of image">
+    </p>
+  </body>
+</html>
+```
