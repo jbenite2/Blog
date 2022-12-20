@@ -115,3 +115,34 @@ menu: 'mainmenu'
   </body>
 </html>
 ```
+
+
+---
+### Video
+- **video**: image tag
+  - **controls**: shows pause play volume options
+- **source**: source tag
+  - **src**: attribute where you specify the location of the video 
+  - **type**:  specify the audio type
+
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Homepage</title>
+  </head>
+  <body>
+    <h1>Homepage</h1>
+    <p>
+      This is a video file:
+      <video controls>
+        <source src="video/example.mp4" type="video/mp4"> //Browser should pick this one
+        <source src="video/example.webm" type="video/webm"> //If it doesn't recognize mp4 it'll pick this one
+        <source src="video/example.ogv" type="video/ogg"> //If none of the other ones work it'll pick this one
+      </video>  
+    </p>
+  </body>
+</html>
+```
