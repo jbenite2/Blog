@@ -19,6 +19,7 @@ enableEmoji=true
     scopusID = 'XXXX'
     dimensionsID = 'XXXX'
     footerOffset = -60
+    favicon = "/img/favicon.ico"
 
 #-------------- Defined ------------
     css= ["css/sourgough.css"]
