@@ -1,11 +1,13 @@
+{{ $favicon := .Site.Params.favicon }}
+{{ if $favicon }}
+<link rel="shortcut icon" href="{{ $favicon }}">
+{{ end }}
+
 <head>
+
     <title itemprop="name">
         {{ .Title }} | {{.Site.Title}}
     </title>
-    {{ $favicon := .Site.Params.favicon }}
-    {{ if $favicon }}
-    <link rel="shortcut icon" href="{{ $favicon }}">
-    {{ end }}
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,

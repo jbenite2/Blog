@@ -9,6 +9,7 @@ enableEmoji=true
     unsafe= true
 
 [params]
+  favicon = "/img/favicon.ico"
 #------------- Config -------------------
     scholarLink = true
     scopusLink = true
@@ -19,7 +20,7 @@ enableEmoji=true
     scopusID = 'XXXX'
     dimensionsID = 'XXXX'
     footerOffset = -60
-    favicon = "/img/favicon.ico"
+    
 
 #-------------- Defined ------------
     css= ["css/sourgough.css"]
