@@ -393,3 +393,69 @@ Append either by copy pasting the contents into the code or by referencing the i
   </body>
 </html>
 ```
+
+### Tables
+- Don't use tables for column structure in a page!
+- **table**: table tag
+  - **thead**: good practice to include headers under this tag
+    - **tr**: table row attribute
+      - **th**: table header attribute
+  - **tbody**: good practice to include the data under this tag
+    - **tr**: table row attribute
+      - **td**: table data attribute
+  - **tfoot**: good practice to include the bottom row under this tag
+    - **tr**: table row attribute
+      - **td**: table data attribute
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Example Page</title>
+  </head>
+  <body>
+    
+    <table>
+      <thead>
+        <tr>
+        <th>Name</th>
+        <th>Aisle</th>
+        <th>Price</th>
+        <th>Quantity</th>
+      </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>Bread</td>
+          <td>3</td>
+          <td>$3.00</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Milk</td>
+          <td>1</td>
+          <td>$2.50</td>
+          <td>3</td>
+        </tr>
+      </tbody>
+
+      <tfoot>
+        <tr>
+          <td>Total</td>
+          <td>N/A</td>
+          <td>5.50</td>
+          <td>N/A</td>
+        </tr>
+      </tfoot>
+
+    </table>
+
+  </body>
+</html>
+```
+
+
