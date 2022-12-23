@@ -266,3 +266,130 @@ Append either by copy pasting the contents into the code or by referencing the i
       </ul>
     </aside>
 ```
+
+---
+
+### Forms
+- **form**: tag that surrounds everything related to the input box
+  - **input**: element to initialize input field (no closing /input is required)
+    -**type**: attribute to specify which type of input it is
+    -**id**: attribute use in conjunction with the <i>for</i> attribute in label. 
+    -**value**: attribute to specify value like "Submit" for example
+    -**name**: identifier so other programming languages can use the input element
+  -**label**: tag to label the input box
+    -**for**: used in conjunction with the id attribute in input string(name them the same).
+  
+
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Example Page</title>
+  </head>
+  <body>
+    <form>
+      <label> First Name:
+        <input type="text" name="firstName">
+      </label>
+
+      <label for="lastName">First Name:</label>
+      <input id="lastName" type="text" name="lastName">
+
+      <input type="submit" value="Submit" >
+    </form>
+  </body>
+</html>
+```
+
+---
+### Input Types
+
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Example Page</title>
+  </head>
+  <body>
+
+    <form>
+
+      <label for="email">Email:</label>
+      <input id="email" type="email" name="email">
+      <input type="submit" value="Save!">
+
+      <label for="telephone">telephone:</label>
+      <input id="telephone" type="tel" name="telephone">
+      <input type="submit" value="Save!">
+
+      <label for="yourMessage">Your Message:</label>
+      <textarea id="yourMessage" name="yourMessage"></textarea>
+      <input type="submit" value="Save!">
+
+    </form>
+
+  </body>
+</html>
+```
+
+### Foreign Fields
+
+-**select**:
+  -**option**: attribute to print the bullet in form of dropdown list
+    -**name**: important to identify the name of the option selected for backend purposes
+-**fieldset**: tag used in radio
+  -**legend**: wraps all of the inputs and labels with the text specified
+  -**input**:  NO end tag because it doesn't accept text
+    -**type**:specify the radio type
+    -**id**: pair the id with the for attribute in label.
+    -**name**: specify for identification and backend purposes
+    -**value**: specify for backend purposes 
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>HTML Foreign Fields</title>
+  </head>
+  <body>
+    
+    <!-- Dropdown: -->
+    <label for="favoriteColor">What is your favorite color?</label>
+    <select id="favoriteColor" name="favoriteColor">
+      <option name="colorRed">Red</option>
+      <option name="colorGreen">Green</option>
+      <option name="colorBlack">Black</option>
+    </select>
+
+    <!-- Radio: -->
+    <fieldset>
+      <legend>What is your favorite meal?</legend>
+      <input type="radio" id="breakfast" name="favoriteMeal" value="meal1">
+      <label for="breakfast">Breakfast</label> 
+      <input type="radio" id="lunch" name="favoriteMeal" value="meal2">
+      <label for="lunch">Lunch</label> 
+      <input type="radio" id="dinner" name="favoriteMeal" value="meal3">
+      <label for="dinner">Dinner</label> 
+    </fieldset>
+
+    <!-- Checkbox: -->
+    <fieldset>
+      <legend>Which meals do you enjoy? (check all that apply)</legend>
+      <input type="checkbox" id="breakfast" name="favoriteMeal" value="meal1">
+      <label for="breakfast">Breakfast</label> 
+      <input type="checkbox" id="lunch" name="favoriteMeal" value="meal2">
+      <label for="lunch">Lunch</label> 
+      <input type="checkbox" id="dinner" name="favoriteMeal" value="meal3">
+      <label for="dinner">Dinner</label> 
+    </fieldset>
+
+
+
+  </body>
+</html>
+```
