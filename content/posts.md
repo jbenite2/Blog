@@ -50,7 +50,7 @@ layout: 'posts'
   <li>Linux</li>
   <li>Python</li>
   <li><a href="/posts/html/">HTML</a></li>
-  <li>CSS</li>
+  <li><a href="/posts/css/">CSS</a></li>
   <li>MySQL</li>
   <li>JavaScript</li>
   <li>React</li>
