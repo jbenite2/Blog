@@ -338,16 +338,16 @@ Append either by copy pasting the contents into the code or by referencing the i
 
 ### Foreign Fields
 
--**select**:
-  -**option**: attribute to print the bullet in form of dropdown list
+- **select**:
+  - **option**: attribute to print the bullet in form of dropdown list
     -**name**: important to identify the name of the option selected for backend purposes
--**fieldset**: tag used in radio
-  -**legend**: wraps all of the inputs and labels with the text specified
-  -**input**:  NO end tag because it doesn't accept text
-    -**type**:specify the radio type
-    -**id**: pair the id with the for attribute in label.
-    -**name**: specify for identification and backend purposes
-    -**value**: specify for backend purposes 
+- **fieldset**: tag used in radio
+  - **legend**: wraps all of the inputs and labels with the text specified
+  - **input**:  NO end tag because it doesn't accept text
+    - **type**:specify the radio type
+    - **id**: pair the id with the for attribute in label.
+    - **name**: specify for identification and backend purposes
+    - **value**: specify for backend purposes 
 
 ```html
 <!DOCTYPE html>
