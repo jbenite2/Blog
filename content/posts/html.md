@@ -227,3 +227,42 @@ Append either by copy pasting the contents into the code or by referencing the i
   </body>
 </html>
 ```
+
+---
+### Semantics and Structural Elements
+- **header**: tag for elements that go in the beginning of the page
+- **footer**: tag for elements that go in the bottom of the page
+- **article**: the content wrapped inside the tag is considered as one of the subtopics
+- **aside**: related to the page's main topic but independent from surrounding tags
+- **nav**: include links for navigation links inside the website
+- **div**: general purpose block-level element with no semantic meaning. stands for division. useful for css classes. 
+- **span**: general purpose inline element with no semantic meaning.useful for css classes. 
+```html
+<!DOCTYPE html>
+<body>
+  <header>
+    <h1>My Website</h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <article>
+      <h2>Welcome to My Website!</h2>
+      <div class="article-body">
+        <p>Lorem <span class="brand-color">ipsum</span> dolor sit amet, consectetur adipiscing elit. Proin malesuada ante quis enim efficitur, in aliquam sapien fringilla. Donec volutpat diam et nunc viverra, id lobortis enim condimentum. Suspendisse bibendum, ante quis iaculis malesuada, dolor est ullamcorper lacus, id euismod est mauris a elit. Mauris non diam sit amet turpis viverra ullamcorper vel eu lectus. Suspendisse vehicula, diam a semper suscipit, arcu lacus mollis est, sit amet facilisis libero erat et tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis eleifend, arcu nec auctor varius, mauris nisi iaculis est, eu consectetur elit ante et dui. Vestibulum nec nisi nec diam ornare condimentum. Ut pretium porta erat, ut condimentum erat interdum et. Duis lacus lectus, suscipit et orci eu, facilisis accumsan leo.</p>
+      </div>
+    </article>
+    <aside>
+      <h3>Popular Posts</h3>
+      <ul>
+        <li><a href="/post1">Post 1</a></li>
+        <li><a href="/post2">Post 2</a></li>
+        <li><a href="/post3">Post 3</a></li>
+      </ul>
+    </aside>
+```
