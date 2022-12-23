@@ -157,4 +157,52 @@ What is a vector graphic? It's basically an image that doesn't loose quality whe
 
 Append either by copy pasting the contents into the code or by referencing the image using svg as the type. 
 
-"
+---
+### Lists
+- **ul**: unordered list tag
+  - **li**: list item is a bullet
+- **ol**: ordered list tag
+  - **li**: list item is a number type bullet
+- **dl**: description list tag
+  - **dt**: term attribute
+  - **dd**: attribute that describes the term
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Homepage</title>
+  </head>
+  <body>
+    <ul>
+      <li>Order</li>
+      <li>Doesn't</li>
+      <li>Matter</li>
+    </ul>
+
+    <ol>
+      <li>Order</li>
+      <li>DOES</li>
+      <li>Matter</li>
+    </ol>
+
+    <dl>
+      <dt>Term1</dt>
+      <dd>description1</dd>
+      <dt>Term2</dt>
+      <dd>description2</dd>
+      <dt>Term3</dt>
+      <dd>description3</dd>
+    </dl>
+
+  </body>
+</html>
+```
+
+---
+### Bold and Italics
+- **strong**: bold tag
+- **b**: bold tag
+- **em**: emphasis (italics) tag. a screening software would pronounce it differently
+- **i**: italic tag without word emphasis in pronunciation
