@@ -206,3 +206,24 @@ Append either by copy pasting the contents into the code or by referencing the i
 - **b**: bold tag
 - **em**: emphasis (italics) tag. a screening software would pronounce it differently
 - **i**: italic tag without word emphasis in pronunciation
+
+---
+### Special Characters
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Homepage</title>
+  </head>
+  <body>
+    <ul>
+      <li>Ampersand: &amp; </li>
+      <li>Copyright: &copy;</li>
+      <li>Registered symbol: &reg;</li>
+      <li>Trademark symbol: &trade;</li>
+    </ul>
+
+  </body>
+</html>
+```
