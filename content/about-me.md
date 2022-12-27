@@ -61,6 +61,7 @@ menu: 'mainmenu'
     .soft-skills{
         display: flex;
         flex-wrap: wrap;
+        margin-bottom: 3px;
     }
 
     .button-soft-skills{
@@ -121,7 +122,7 @@ menu: 'mainmenu'
             <h1> Education</h1>
                 <div class="education">
                     <div class="nd">
-                        <h5><u>University of Notre Dame</u></h5>
+                        <h5><u><a href="https://www.nd.edu/">University of Notre Dame</a></u></h5>
                         <img src="/nd.png" alt="Notre Dame" style=" height:auto; width: 50%; float: left;">
                         <ul style="margin-top: 20px; color: gray; margin-left: 50%; font-size:20px; ">
                             <li>Major: Computer Science</li>
@@ -131,8 +132,8 @@ menu: 'mainmenu'
                         </ul>
                     </div>
                     <div class="csj">
-                        <h5><u>Colegio San José de Río Piedras</u></h5>
-                        <img src="/csj.jpeg" alt="Notre Dame" style=" height:auto; width: 50%; float: left;">
+                        <h5><u><a href="https://www.csjpr.org/">Colegio San José de Río Piedras</a></u></h5>
+                        <img src="/csj.jpeg" alt="Colegio San Jose" style=" height:auto; width: 50%; float: left;">
                         <ul style="margin-left: 200px; color: gray; margin-top: 20px; padding:0; font-size:20px;">
                             <li>High Honors</li>
                             <li>Salutatorian Award</li>
