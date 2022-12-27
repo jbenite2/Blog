@@ -27,15 +27,6 @@ enableEmoji=true
 
 [menu]
 #----- Navbar links ------
-  [[menu.main]]
-    identifier = "Blog"
-    name = "Blog"
-    url = "/blog/"
-
-  [[menu.main]]
-    identifier = "About"
-    name = "About"
-    url = "/about/"
 
   [[menu.main]]
     identifier = "Projects"
@@ -46,6 +37,11 @@ enableEmoji=true
    identifier = "Posts"
    name = "Posts"
    url = "/posts/"
+
+  [[menu.main]]
+    identifier = "About Me"
+    name = "About Me"
+    url = "/about-me/"
 
 #----- NavBottom Links ------
   [[menu.bot]]
