@@ -8,12 +8,14 @@ menu: 'mainmenu'
 <style>
     .proj_column{
         display:flex;
-        flex-direction: column;
+        flex-direction: row;
+        flex-wrap: wrap;
         text-align: center;
         margin-bottom: 10px;
         padding: 1rem;
-        space-between: 10px;
+        space-between: 100px;
         margin-inline: 5% 10%;
+        justify-content: space between;
 
     }
 
