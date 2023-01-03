@@ -124,6 +124,10 @@ menu: 'mainmenu'
 - **source**: source tag
   - **src**: attribute where you specify the location of the video 
   - **type**:  specify the video  type
+- **iframe**: youtube video tag
+  - **width**: width attribute
+  - **height**: height attribute
+  - **src**: youtube link to video
 
 
 ```html
