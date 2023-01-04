@@ -23,7 +23,7 @@ menu: 'mainmenu'
         <img src="/IslanderPR.JPG" alt="Islander Project"  width="425" height="300" style="border-radius:25px;">
     </a>
     <a href="https://www.jbenitez.me/videos/">
-        <img src="/leetgrind.jpg" alt="Interview Prep"  width="425" height="300" style="border-radius:25px;">
+        <img src="/lg.png" alt="Interview Prep"  width="425" height="300" style="border-radius:25px;">
     </a>
     <a href="http://ospankys.live">
         <img src="/SpankysProject.jpg" alt="Spankys Kitchen"  width="425" height="300" style="border-radius:25px;">
