@@ -31,7 +31,7 @@ layout: 'posts'
     <a href="/posts/css/"><img src="/css.png" ></a>
   </div>
   <div class="column">
-    <a href="/posts//"><img src="/mysql.png" ></a>
+    <a href="/posts/"><img src="/mysql.png" ></a>
   </div>
 </div>
 
