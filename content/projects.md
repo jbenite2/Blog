@@ -31,4 +31,6 @@ menu: 'mainmenu'
     <a href="http://jbenitez.me">
         <img src="/personalSite.jpg" alt="Personal Site"  width="425" height="300" style="border-radius:25px;">
     </a>
+    <a href="{{ staticDir }}/documents/connect4.py" download="connect4.py">Download</a>
+    
 </div>
