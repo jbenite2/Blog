@@ -163,28 +163,28 @@ draft: true
     <div class="strings">
       <div class="video-container">
         <h3>Longest Repeating Char Rep:</h3> 
-              <h5><li>Jan. 03, 2023</li></h5>
-                <iframe width="400" height="300" src="https://www.youtube.com/embed/nEPNSVTc21c"></iframe>
+              <h5><li>Nov. 09, 2022</li></h5>
+                <iframe width="400" height="300" src="https://www.youtube.com/embed/ZQ4RtdSGLzQ"></iframe>
       </div>
       <div class="video-container">
         <h3>Group Anagrams:</h3> 
-              <h5><li>Jan. 03, 2023</li></h5>
-                <iframe width="400" height="300" src="https://www.youtube.com/embed/C7jmRqWQVgo"></iframe>
+              <h5><li>Nov. 02, 2022</li></h5>
+                <iframe width="400" height="300" src="https://www.youtube.com/embed/1vzsUxrD4zA"></iframe>
       </div>
       <div class="video-container">
         <h3>Valid Parentheses:</h3> 
               <h5><li>Jan. 03, 2023</li></h5>
-                <iframe width="400" height="300" src="https://www.youtube.com/embed/VM8AriMevCE"></iframe>
+                <iframe width="400" height="300" src="https://www.youtube.com/embed/hzUIIDOvHeI"></iframe>
       </div>
       <div class="video-container">
         <h3>Valid Palindrome:</h3> 
               <h5><li>Jan. 03, 2023</li></h5>
-                <iframe width="400" height="300" src="https://www.youtube.com/embed/VM8AriMevCE"></iframe>
+                <iframe width="400" height="300" src="https://www.youtube.com/embed/i-ztMecJTu8"></iframe>
       </div>
       <div class="video-container">
         <h3>Longest Palindromic Substring:</h3> 
-              <h5><li>Jan. 03, 2023</li></h5>
-                <iframe width="400" height="300" src="https://www.youtube.com/embed/VM8AriMevCE"></iframe>
+              <h5><li>Oct. 30, 2022</li></h5>
+                <iframe width="400" height="300" src="https://www.youtube.com/embed/u4nMMjIrvZY"></iframe>
       </div>
     </div>
   </body>
