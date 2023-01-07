@@ -267,7 +267,6 @@ body footer p{
 ### CSS Fonts:
 - <u>font-family</u>
 - <u>font-weight:</u> 
-    -
 - <u>font-size</u>
 - <u>font-family</u>
 - <u>font-family</u>

@@ -4,26 +4,22 @@ layout: 'posts'
 ---
 
 <style>
-  .column-layout{
-    margin: 75px;
+  .page{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 100%;
   }
   .column {
-    flex: 33.33%;
   }
 
   img {
-    width: 100%;
-    height: auto;
+    width: 400px;
   }
 
 </style>
 
 
-<div class="column-layout">
+<div class="page">
   <div class="column">
     <a href="/posts/html/"><img src="/html.png"></a>
   </div>
@@ -32,6 +28,9 @@ layout: 'posts'
   </div>
   <div class="column">
     <a href="/posts/"><img src="/mysql.png" ></a>
+  </div>
+    <div class="column">
+    <a href="/posts/javascript"><img src="/js.png" ></a>
   </div>
 </div>
 
