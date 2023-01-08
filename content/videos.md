@@ -23,6 +23,12 @@ draft: true
     flex-direction: row;
     flex-wrap: wrap;
   }
+  .trees{
+    order: 1;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
 
   .linked-lists{
     order: 1;
@@ -141,6 +147,29 @@ draft: true
                 <iframe width="400" height="300" src="https://www.youtube.com/embed/n4f9W4FN6zs"></iframe>
       </div>
     </div>
+    <u><h2>Trees</h2></u>
+    <div class="trees">
+      <div class="video-container">
+        <h3>Validate Binary Search Tree:</h3> 
+              <h5><li>Jan. 08, 2022</li></h5>
+                <iframe width="400" height="300" src="https://www.youtube.com/embed/-TdZbJUTwqM"></iframe>
+      </div>
+      <div class="video-container">
+        <h3>Invert Binary Tree:</h3> 
+              <h5><li>Jan. 07, 2022</li></h5>
+                <iframe width="400" height="300" src="https://www.youtube.com/embed/BEjrlZiXk94"></iframe>
+      </div>
+      <div class="video-container">
+        <h3>BT Level Order Traversal:</h3> 
+              <h5><li>Jan. 07, 2022</li></h5>
+                <iframe width="400" height="300" src="https://www.youtube.com/embed/_pf7KswVLz0"></iframe>
+      </div>
+      <div class="video-container">
+        <h3>Maximum Depth of Binary Tree:</h3> 
+              <h5><li>Jan. 07, 2022</li></h5>
+                <iframe width="400" height="300" src="https://www.youtube.com/embed/nQKnuSYuoXM"></iframe>
+      </div>
+    </div>
     <u><h2>Linked Lists</h2></u>
     <div class="linked-lists">
       <div class="video-container">
@@ -157,6 +186,16 @@ draft: true
         <h3>Merge Two Sorted Lists:</h3> 
               <h5><li>Jan. 03, 2023</li></h5>
                 <iframe width="400" height="300" src="https://www.youtube.com/embed/VM8AriMevCE"></iframe>
+      </div>
+      <div class="video-container">
+        <h3>Remove Nth Node From End of List:</h3> 
+              <h5><li>Jan. 07, 2022</li></h5>
+                <iframe width="400" height="300" src="https://www.youtube.com/embed/pQHGMkBJz0Q"></iframe>
+      </div>
+      <div class="video-container">
+        <h3>Reorder List:</h3> 
+              <h5><li>Jan. 07, 2022</li></h5>
+                <iframe width="400" height="300" src="https://www.youtube.com/embed/NsPcFesIl_s"></iframe>
       </div>
     </div>
     <u><h2>Strings</h2></u>
